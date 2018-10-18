@@ -10,4 +10,4 @@ Reference: [pusher.js](https://github.com/pusher/pusher-js#nodejs)
     
 2. Under the same directory, run
 
-    node coinprima_client.js
+    node pusher_private_channel.js
